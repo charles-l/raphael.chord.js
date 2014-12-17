@@ -1,0 +1,25 @@
+{
+  "name": "raphael-chord",
+  "main": "raphael.chord.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/charles-l/raphael.chord.js",
+  "authors": [
+    "charles-l <chuckiels2011@gmail.com>",
+    "Justin D'Arcangelo"
+  ],
+  "description": "A plugin for rendering guitar chords with raphaeljs",
+  "keywords": [
+    "raphael",
+    "vector",
+    "guitar",
+    "music"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
